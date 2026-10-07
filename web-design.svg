@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<rect width="600" height="300" fill="#0f172a"/>
+<rect x="60" y="40" width="480" height="220" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<rect x="60" y="40" width="480" height="36" rx="12" fill="#38bdf8"/>
+<circle cx="85" cy="58" r="6" fill="#0f172a"/><circle cx="105" cy="58" r="6" fill="#0f172a"/><circle cx="125" cy="58" r="6" fill="#0f172a"/>
+<text x="90" y="125" font-family="Arial" font-size="22" fill="#f472b6">&lt;html&gt;</text>
+<text x="110" y="160" font-family="Arial" font-size="22" fill="#a3e635">&lt;body class="learn"&gt;</text>
+<text x="130" y="195" font-family="Arial" font-size="22" fill="#fbbf24">Web Design</text>
+<text x="110" y="230" font-family="Arial" font-size="22" fill="#a3e635">&lt;/body&gt;</text>
+</svg>
